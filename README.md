@@ -10,10 +10,8 @@ Implementation of an API application using the Phalcon Framework [https://phalco
 
 ### Installation
 - Clone the project
-- In the project folder run `nanobox run php-server`
+- In the project folder run `docker compose up -d --build`
 - Hit the IP address with postman
-
-**NOTE** This requires [nanobox](https://nanobox.io) to be present in your system. Visit their site for installation instructions.
 
 ### Features
 ##### JWT Tokens
