@@ -10,7 +10,7 @@ Implementation of an API application using the Phalcon Framework [https://phalco
 
 ### Installation
 - Clone the project
-- In the project folder run `docker compose up -d --build`
+- In the project folder run `docker-compose up -d --build`
 - Hit the IP address with postman
 
 ### Features
